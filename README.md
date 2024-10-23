@@ -8,7 +8,7 @@
 <a href="https://anaconda.org/conda-forge/pyiron/" rel="nofollow"><img alt="下载" src="https://camo.githubusercontent.com/1ba91aa5face7f0e330aa6fe24fb3cdabb6c5dc40e872e10c2d1d2c049fe8f6e/68747470733a2f2f616e61636f6e64612e6f72672f636f6e64612d666f7267652f707969726f6e2f6261646765732f646f776e6c6f6164732e737667" data-canonical-src="https://anaconda.org/conda-forge/pyiron/badges/downloads.svg" style="max-width: 100%;" _mstalt="135733" _msthash="276">
 </a>
 <a href="https://pyiron.readthedocs.io/en/latest/?badge=latest" rel="nofollow"><img alt="文档状态" src="https://camo.githubusercontent.com/7c75130a7ecf708c4466621deb0935be9e530d611ed5189d6df973e114eaeb12/68747470733a2f2f72656164746865646f63732e6f72672f70726f6a656374732f707969726f6e2f62616467652f3f76657273696f6e3d6c6174657374" data-canonical-src="https://readthedocs.org/projects/pyiron/badge/?version=latest" style="max-width: 100%;" _mstalt="424515" _msthash="277"></a>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/pyiron/pyiron/blob/main/docs/_static/screenshot.png"><img alt="pyiron 在 jupyterlab 中运行的屏幕截图。" src="/pyiron/pyiron/raw/main/docs/_static/screenshot.png" style="max-width: 100%;" _mstalt="1589640" _msthash="278"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/pyiron/pyiron/blob/main/docs/_static/screenshot.png"><img alt="pyiron 在 jupyterlab 中运行的屏幕截图。" src="https://github.com/pyiron/pyiron/raw/main/docs/_static/screenshot.png" style="max-width: 100%;" _mstalt="1589640" _msthash="278"></a></p>
 <p dir="auto" _msttexthash="426677485" _msthash="279">pyiron - 用于计算材料科学的集成开发环境 （IDE）。它将多个工具组合在一个通用平台中：</p>
 <blockquote>
 <ul dir="auto">
